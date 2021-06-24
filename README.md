@@ -1,2 +1,2 @@
 # mcsrv
-minecraft docker container
+minecraft docker container techtalk series 10
